@@ -3,7 +3,8 @@
  * Plugin Name:Youth Space Stories
  * Plugin URI: https://www.linearc.biz/profile/
  * Description: This creates suscribe, unsuscribe and email verification compatibility for linearc site.
- * Version: 0.1
+ * Version: 1.1
+ * GitHub Plugin URI: https://github.com/Linearc-Inc/wp-youth-space-stories
  * Author: Isakiye Afasha
  * Author URI: http://www.iamafasha.com
  */
